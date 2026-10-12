@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #333333;
+    background-color: #f7f3ea;
+    padding: 20px 40px;
+}
+h1{
+    color: #004080;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 25px;
+    padding: 15px;
+    border: 3px solid #004080;
+    background-color: #e8f0f8;
+}
+p{
+    width: 75%;
+    margin: 20px auto;
+    padding: 15px 20px ;
+    background-color: white;
+    border-left: 7px solid #d49a3a;
+    font-size: 20px;
+    line-height: 1.8;
+}
+h2{
+    color: #004080;
+    font-size: 25px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    padding: 8px 15px;
+    border-left: 6px solid #d49a3a;
+    background-color: #e8f0f8;
+}
+h3{
+    color: 8a5a00;
+    font-size: 20px;
+    margin-top: 25px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #d49a3a;
+}
+ul{
+    width:60%;
+    margin:15px auto;
+    padding:20px 40px;
+    background-color: white;
+    border: 1px solid #cccccc;
+    list-style-type: square;
+}
+ol{
+    width: 60%;
+    margin: 15px ;
+    padding: 20px 40px;
+    background-color: #fff4d6;
+    border:2px solid #d49a3a
+}
+dl{
+    width: 70%;
+    margin: 20px ;
+    padding: 20px;
+    background-color: white;
+    border: 2px dashed #999999;
+}
+dt{
+    color: #004080;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#tab1{
+    width: 80%;
+    margin: 25px ;
+    border-spacing: 7px;
+    background-color: white;
+    letter-spacing: 7px;
+}
+#tab1 caption {
+    color: #004080;
+    font-size: 22px;
+    font-weight:bold;
+    padding: 10px;
+}
+#tabl th {
+    background-color: #004080;
+    color: white;
+    padding: 12px;
+    border: 1px solid #333333;
+}
+#tabl td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #aaaaaa;
+}
+#tab2 {
+    width: 90%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    background-color: khaki;
+}
+#tab2 th {
+    background-color: #8a5a8a;
+    color: white;
+    padding: 12px;
+}
+#tab2 td{
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
